@@ -1,0 +1,12 @@
+{
+  "type": "model",
+  "series": "16",
+  "model": "turtlebot-amd64-demo",
+  "architecture": "amd64",
+  "gadget": "pc-turtlebot-kyrofa",
+  "kernel": "pc-kernel",
+  "authority-id": "4tSgWHfAL1vm9l8mSiutBDKnnSQBv0c8",
+  "brand-id": "4tSgWHfAL1vm9l8mSiutBDKnnSQBv0c8",
+  "timestamp": "2017-03-24T21:15:13+00:00",
+  "required-snaps": ["turtlebot-demo-kyrofa"]
+}

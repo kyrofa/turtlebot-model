@@ -1,0 +1,23 @@
+type: model
+authority-id: 4tSgWHfAL1vm9l8mSiutBDKnnSQBv0c8
+series: 16
+brand-id: 4tSgWHfAL1vm9l8mSiutBDKnnSQBv0c8
+model: turtlebot-amd64-demo
+architecture: amd64
+gadget: pc-turtlebot-kyrofa
+kernel: pc-kernel
+required-snaps:
+  - turtlebot-demo-kyrofa
+timestamp: 2017-03-24T21:15:13+00:00
+sign-key-sha3-384: Qjdppj0EWAWkkiZ41HuYlheSU1d3FLDfrO14xbUjel0pGL0332zcPkeNr604CROy
+
+AcLBXAQAAQoABgUCWNsHxAAKCRB+tSUVeTFB8DxFEACIee6PIipKWWMRnP0zsTcAoMw3fF+vMC1f
+3gbgUNVOs6DFrQO7iZlMZkOsYaVyY4YHaM0NjulSy4mUs3oM2yKuT2jcr3e1RoQT92yHe6f9MmB0
+LZwSMVUqa0+a2mKcf071fAD1tWbesP8yGe0gn5c5yAUvx0KtRC2Tp1PRrnIv1A0aNLbLg9yRCduX
+16DraZ7R4aAH8cCbtvO9B5nE0c57gyF/dVW00Ixpr5vOLCZegdqDxutltZjyAQOVjHz2Pc6vRnQW
+Kz2CUqoQJ2VlXWQ8kxPB/yuUGbr/oIWy1kt7LiV03B2yJq16vUibTJHKl6bKMsabhruCw6Rgex5n
+l8B8b3R1RB+acJnPlwmDr9IjsKctR2SbdI/w8xayyuCgwOtx6Or85iQi2EA+zdQPesBCFSHCWul6
+I9Ui3tZ0XtHwC31pJjU4w0jD41lw5YMy/Rdn4I5twxp48qEK3B3jUCu1qmJvyyq1hS599+OU3yu2
+a4Z4hxW23Z5V5nXgrGCP+hcRRTN0Ifvxw5aRMuuuBiHO6zdH6/0RIpNfK/xk40PZkDdaYIdVTDPA
+3TQiOXuXPw5Rgzt5X5yoFqhZQv8UbpDqlTbvyLlbvQaDOhl5iSsvWZJy9fQnjJhVJc07qXsxutMV
+vSw/HBdQLl9szln2Hi4hFxAe+LfcNlScfBSMypoVHA==

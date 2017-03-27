@@ -1,0 +1,23 @@
+type: model
+authority-id: 4tSgWHfAL1vm9l8mSiutBDKnnSQBv0c8
+series: 16
+brand-id: 4tSgWHfAL1vm9l8mSiutBDKnnSQBv0c8
+model: turtlebot-dragonboard-demo
+architecture: arm64
+gadget: dragonboard-turtlebot-kyrofa
+kernel: dragonboard-kernel
+required-snaps:
+  - turtlebot-demo-kyrofa
+timestamp: 2017-03-24T21:15:13+00:00
+sign-key-sha3-384: Qjdppj0EWAWkkiZ41HuYlheSU1d3FLDfrO14xbUjel0pGL0332zcPkeNr604CROy
+
+AcLBXAQAAQoABgUCWNsISAAKCRB+tSUVeTFB8JB0D/997k/SfyQirr3GujjfdN5n3akidyGATu+7
+ehG5RAgz643bDdwOiKhdnQlhq8uCkded30/Q1q5Gb9nLF/oIHW1VMUFrXrKzHW8t5Aev1d9Jm+pN
+8VXJM8ApeqRUv0AwcQk86eSpeEdedw8SZm4Lt1PE70E5g7sdcHpxxKfRYJDO/lZm4ciTdB99PAv7
+HUJIcXpLbt6JOAjefJatkgInDkE9Il43a5AT86MZKz+aYnkcrmVAFp+BDpK81FjbDns/f+AI5HK4
+pJKu26MQW2+ieTomOYeG4xue4/2MTTCoeJgcCiDpKwDK3u+jt3vKq+Mdys9K3deI49rww/FVM0Vc
+IvTXShT9YAT9ckiaCjJY+WS+o4G+cSTKMariVLKYXSLNZZ7gvDeUUlo4gXM3/AXRBgVIDluviMzr
+YBgr3Xq17gg7NFJ5Os/EdNe/3lYR+pOumtpjq/3F1/GLFJ/+XcMjuKzKet+e5JnnmC+gSFuGVr3g
+3EF37FjGeHLFf/rsa/1uCh/dosjc8gwYScs918s7mhMLNGr8Sn4dLKfN1yvNAHZ/2K7cYSUnpOU8
+wj0GerKCCGcf8g/ZUfhU9LK3JMACg01M+bGUs0wWPoEvdIpu5lEBvkZcjhPW4YklxckP1Z/iDs7D
+/kXJtCyK+U1u/0ehkAwxfN3ZkA8lMEcP6Y6dH5Lm3Q==
